@@ -1,0 +1,1 @@
+"use strict";$(function(){lazyload(),Cookies.get("user-consent")?$("#user-consent").css({opacity:0,"z-index":-1}):$("#user-consent").css({opacity:1,"z-index":9}),$(document).on("click","#user-agree",function(){Cookies.set("user-consent","1",365),$("#user-consent").css({opacity:0,"z-index":-1})})});

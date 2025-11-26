@@ -1,0 +1,15 @@
+<svg width="76" height="76" viewBox="0 0 76 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-2" y="-2" width="80" height="80"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2px);clip-path:url(#bgblur_0_1_504_clip_path);height:100%;width:100%"></div></foreignObject><circle opacity="0.6" data-figma-bg-blur-radius="4" cx="38" cy="38" r="33" stroke="#E9F3FF" stroke-width="6"/>
+<g opacity="0.6" filter="url(#filter1_f_1_504)">
+<circle cx="38" cy="38" r="30" stroke="#E9F3FF" stroke-width="8"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M58.7621 27.3061C58.9843 27.3952 59.1748 27.5489 59.309 27.7472C59.4431 27.9455 59.5148 28.1795 59.5148 28.419C59.5148 28.6584 59.4431 28.8924 59.309 29.0907C59.1748 29.289 58.9843 29.4427 58.7621 29.5318L39.0318 37.4884C38.2581 37.8001 37.3928 37.7983 36.6228 37.4829L21.9763 31.4879V45.9731C22.6668 46.2808 23.2531 46.7824 23.6639 47.4171C24.0746 48.0518 24.2921 48.7921 24.2899 49.5481V55.8768C24.2899 56.1199 24.1934 56.3531 24.0215 56.525C23.8496 56.6969 23.6164 56.7934 23.3733 56.7934H17.3801C17.137 56.7934 16.9038 56.6969 16.7319 56.525C16.56 56.3531 16.4635 56.1199 16.4635 55.8768V49.5481C16.4635 47.9476 17.4113 46.5781 18.779 45.9713V30.1771L17.1895 29.5281C16.9691 29.4377 16.7805 29.2838 16.6479 29.086C16.5152 28.8881 16.4443 28.6553 16.4443 28.4171C16.4443 28.1789 16.5152 27.9461 16.6479 27.7483C16.7805 27.5504 16.9691 27.3965 17.1895 27.3061L36.6228 19.3531C37.3928 19.0378 38.2581 19.036 39.0318 19.3476L58.7621 27.3043V27.3061ZM39.9283 39.7141L50.6533 35.3893V42.4238C50.6573 42.6641 50.6018 42.9017 50.4918 43.1153C50.3817 43.329 50.2206 43.5121 50.0226 43.6485C48.3946 44.7411 43.7581 47.4508 37.8309 47.4508C31.9019 47.4508 27.4781 44.7374 25.9399 43.6485C25.7528 43.5119 25.6014 43.3324 25.4983 43.125C25.3952 42.9175 25.3436 42.6884 25.3478 42.4568V35.4608L35.7134 39.7031C37.0639 40.2559 38.5768 40.2599 39.9301 39.7141H39.9283Z" fill="#3E89EB"/>
+<defs>
+<clipPath id="bgblur_0_1_504_clip_path" transform="translate(2 2)"><circle cx="38" cy="38" r="33"/>
+</clipPath><filter id="filter1_f_1_504" x="0" y="0" width="76" height="76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_1_504"/>
+</filter>
+</defs>
+</svg>
